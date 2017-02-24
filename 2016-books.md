@@ -4,7 +4,7 @@ Books
 ### Extreme Programming Explained
 
 1. What is XP?
-    - The more humanly we treat myself and others, the more productive we all became
+    - The more humanly we treat ourselves and others, the more productive we all become
     - Use a "mentality of sufficiency"
     - You can do your best work even when there are constraints. Fussing about the constraints distracts you from your goals.
     - It's other peoples' job to manage their own expectations. Just communicate what you know to set that expectation.
@@ -287,6 +287,7 @@ Books
     - "Planning is not about predicting the future"
     - Development may not go as according to plan, but without a plan it will go awry
     - "Keep the human beings focused, happy, and motivated and they will deliver"
+
 1. Why Plan?
     - Business and software changes too quickly for plans to be able to perfectly predict the future
     - "Plans are about figuring out a likely course of events and the consequences of the inevitable changes"
