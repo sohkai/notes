@@ -31,3 +31,86 @@ Author: Henning Diedrich
 - "A blockchain transfer is very fast to finality [as opposed to verification that the payment occurred which most systems excel at today]"
 - "Blockchains commit state very slowly"
 - "Ethereum is a chain for everyone, hardened for public exposure, designed for interoperability and openness first"
+
+### Aesop's Fables
+
+- Slow and steady wins the race
+- Small-minded people scorn what they can't have
+- The wicked often fall into their own traps
+- You cannot believe a liar even when he tells the truth
+- Too-powerful neighbours should be avoided, for in a quarrel, the weaker suffers
+- Those who play jokes on others must expect them in return
+- Friend's fights are their enemies' opportunities
+- The tyrant always finds an excuse to injure the innocent
+- Changeable people are not easily satisfied
+- Persuasion is better than force
+- There are always others worse off than you
+- A bird in the hand is worth two in the bush
+- Deeds, not words
+- Example is better than precept
+- No situation is so bad it can't be turned to someone's profit
+- More treasure than gold can be found beneath the sun
+- There's more than one way to bait a trap
+- Your own eyes may be your best witness
+- Give assistance, not advice, in a crisis
+- To thine ownself, be true
+- To each his own
+- Utility is most men's test of worth
+- They complain most who suffer least
+- Do not attempt too much at once
+- Beware of those who wish to bring you down, not up
+- Sometimes the slow ones blame the active for the delay
+- The blame doesn't always lie in the obvious
+- Nobody can judge his own worth
+- What is worth most is often valued least
+- If you grasp at the shadow, you may lose the substance
+- The farthest you go is with using your own gifts
+- Many a service is met with ingratitude
+- One man's pat is another's swat
+- Don't play both sides against the middle
+- He who gives in to other's wants will have no principles of his own
+- Advice from the greedy is best ignored
+- Thoughtless friends can be as bad as enemies
+- Goodness is the greatest strength of all
+- Be content with what you're sure of
+- Respect the wisdom of those who came before you
+- When the rich surrender the rights of the poor, they endanger their own privileges
+- You can look at the stars, but watch where you're going
+- Advantages that are dearly bought are doubtful blessings
+- Think twice before you act
+- Be happy with what you have
+- Flattery should get you nowhere
+- Our own vanity is our worst flatterer
+- The other fellow's plate always looks fuller than our own
+- It's easy to cry "coward" when it's not you in danger
+- Some people find fault even with the things that benefit them
+- Misfortune awaits those who love unwisely
+- When you hit back make sure you have the right man
+- There is no virtue in giving to others what is useless to oneself
+- Live and let live
+- Better a certain enemy than a doubtful friend
+- The enemy you know is better than the enemy you don't
+- Clothes do not make the man
+- Appearances are very often deceiving
+- It's easy to fight someone who can't fight back
+- The flower in the vase smiles, but it can no longer laugh
+- Those who pretend to be something they are not only make themselves ridiculous
+- Unused riches create no good
+- Vengeance may be worse than the deed that provoked it
+- It's far better to bend than to break
+- We may often be more important in our own eyes than in the eyes of others
+- Better poverty without a care than wealth with its many obligations
+- Nature never disobeys her own laws
+- Necessity is the mother of invention
+- One man's meat is another's poison
+- Those who live by thievry can't complain of robbers
+- Position is everything in life
+- There are two sides to every question
+- There are two sides to every truth
+- To everything there is a season, and a purpose
+- Friendship is a hedge against adversity
+- That governs best which governs least
+- In union is strength
+- The advice of an enemy is not to be trusted
+- Much wants more and loses all
+- The greedy never know when they have had enough
