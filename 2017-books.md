@@ -114,3 +114,84 @@ Author: Henning Diedrich
 - The advice of an enemy is not to be trusted
 - Much wants more and loses all
 - The greedy never know when they have had enough
+
+### ØMQ - The Guide
+
+[Book](http://zguide.zeromq.org/page:all#toc0)
+
+Author: Pieter Hintjens
+
+- Programming is science dressed as art
+    - "The science of programming: make building blocks that people can understand and use easily, and people will work together to solve the very largest problems"
+- New software crisis (is it still one?): creating connected applications is incredibly costly (and centralized)
+    - To fix the world, with *science*: solve how to connect code, and give the solution to people in the simplest way possible
+- "Classy programmers share the same motto as classy hit men: always clean-up when you finish the job"
+- "Software dies, but community survives"
+    - Large-scale and long-lasting software usually goes hand-in-hand with a flourishing free software community behind it
+    - **"Software is about people"**
+- Software architecture:
+    - "How we organize is more significant than who we are" --> processes, coordination
+    - We're bad at understanding complexity, but good at working together to divide and conquer large problems
+    - Psychology:
+        - Stupidity: we're all stupid at some point; simplicity beats functionality
+        - Selfishness: we're all selfish, so the architecture has to leave room for people to express their selfish acts
+        - Laziness: we make lots of assumptions, and most of them are wrong; test these early and cheaply
+        - Jealousy: we're competitive and like to prove others wrong; the architecture should provide space for open competition (to get the best result)
+        - Fear: we're afraid of being embarrassed and failing; the architecture should be easy and cheap to silently experiment
+        - Reciprocity: rules should enforce how people work together, and what to avoid
+        - Conformity: establish clear, documented, and efforced patterns and you'll get people following them
+        - Pride: allow attritibution, as we're all silent egoists
+        - Greed: value must flow to all producers, either that be reputation, money, etc; think of the architecture as a economic marketplace
+- Collective works usually have two outcomes:
+    1. Failure, at which point everyone stops caring, or
+    1. Success, at which point everyone vies for control and power
+- (Worth trying) providing upfront terms of conflict settlement makes conflict less likely
+- Projects with GPL licenses are allowed to fork and re-merge, whereas BSD (including MIT, Apache, etc) do not allow re-merging, potentially killing projects that have fall-outs
+    - BSD licenses were meant to be non-profitable and leaky, given to the masses at under cost for adoption
+    - "The license we choose modifies the economics of those who use our work"
+    - Closed source makes people see you as an enemy, BSD makes them see you as a free lunch, and GPL as allies (if they try to run off with it, you can always remerge theirs into your original project)
+    - Interesting views on the Github fork/PR model with GPL
+        - Allow others to become owners and be empowered that way
+        - Forks allow for experimentation and competition; branches give too much power to maintainers and are more complex to manage
+- Community needs:
+    - Symbolic leadership for easy, authoritative conflict resolution (or forking)
+    - Rules and processes that are enforced
+    - Financial backing
+    - A market to connect experts with customers for support, integration, etc.
+- **"Going fast in the wrong direction is not just useless, it's actively damaging"**
+- Development:
+    - Identify problems and then make minimal, accurate solutions to these problems
+    - Publicly explain the problem, why it's a problem, and how to solve it, giving others the chance to review and correct
+- Patents and ideas: you shouldn't be able to "own" an idea, only the manifestation of one (the real work put into giving life to an idea)
+- **"You need a goal that's crazy and simple enough to get people out of bed in the morning"**
+- Transparency -> trust -> scale
+- Interesting views on innovation:
+    - No lone geniuses, but continual acceptance of good solutions crowd sourced and disposal of bad ones (market competition)
+    - Individual creativity matters less than process
+    - Processes should be able to replace road maps, given competition favours better solutions
+    - Solutions are discovered, not invented
+    - Intelligence is social, even if it feels individual
+    - Size and diversity of the community speed up processes for discovering problems and solutions
+- Design processes:
+    - Trash-oriented design: prioritize Brilliant Ideas, create grand designs irrespective of actual problems, work the engineers, and agressively market
+    - Complexity-oriented design: high cost means more value, so increasingly complicated architectures and features are taken for granted to provide more value (despite usually decreasing value)
+        - Obsessively solving the wrong problem in collective delusion
+        - **Instead of asking "What if someone wants to do X?", ask "What is the real value of solving Y?"**
+        - If you make stuff nobody asks for, you're probably wasting your time (although I'd say it depends on if you have a **vision** for what you're doing rather than technical masturbation)
+        - Solving simple problems usually is more valuable than solving really hard ones -> engineers like to focus on the most interesting but least worthwhile
+    - Simplicity-oriented design: end result is fluid through rapid, incremental stages of work, starting from an evaluation of a set of interesting problems for their worths and solving the most important, at any given time, with a brutally minimal solution (Minimal Plausible Patch)
+        - Always ask: "Can it be done simpler?"
+        - Judge simplicity by the number or difficulty of concepts someone new needs to learn (or guess)
+        - **"Design is about removing friction in the use of a product"**; good designers notice annoyances and thinks about how to smooth them
+- My default state is likely best described as a "Canary Watcher": watch for pain, figure out why, and make it better; "people should feel joy in their work"
+- On Sun Tzu quotes: " It's hard to be angry at a Chinese general, especially when he has been dead for 2,400 years."
+- **"*Do not invent concepts.* The job of a designer is to remove problems, not add features."**
+- On using code generators for model generation:
+    - Use it only where you would otherwise be writing tiresome code by hand.
+    - Design natural models that are what people would expect to see.
+    - Write the code by hand first so you know what to generate.
+    - Do not overuse. Keep it simple! *Do not get too meta!!*
+    - Introduce gradually into a project.
+    - Put the generated code into your repositories.
+- "There's a joke about UDP but sometimes you'll get it, and sometimes you won't." :laughing:
+- "Some cultures teach us to aspire to perfection and punish mistakes in education and work, which makes this attitude [avoiding failure] worse. To accept that we're fallible, and then to learn how to turn that into profit rather than shame is one of the hardest intellectual exercises in any profession."
