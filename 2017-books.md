@@ -195,3 +195,44 @@ Author: Pieter Hintjens
     - Put the generated code into your repositories.
 - "There's a joke about UDP but sometimes you'll get it, and sometimes you won't." :laughing:
 - "Some cultures teach us to aspire to perfection and punish mistakes in education and work, which makes this attitude [avoiding failure] worse. To accept that we're fallible, and then to learn how to turn that into profit rather than shame is one of the hardest intellectual exercises in any profession."
+
+### The Opium War
+
+Author: Julia Lovell
+
+*See notes in book*
+
+### Surely You're Joking, Mr. Feynman
+
+Author: Richard P. Feynman
+
+*See notes in book*
+
+### The Autobiography of Benjamin Franklin
+
+Author: Benjamin Franklin
+
+*See notes in book*
+
+### From the Ruins of Empire: The Revolt Against the West and the Remaking of Asia
+
+Author: Pankaj Mishra
+
+*See notes in book*
+
+### China From Empire to Nation-State
+
+Author: Wang Hui
+Translator: Michael Gibbs Hill
+
+### A Guide to the Good Life (Stoicism)
+
+Author: William B. Irvine
+
+### Sapiens: A Brief History of Mankind
+
+Author: Yuval Noah Harari
+
+### Masters of Doom
+
+Author: David Kushner
