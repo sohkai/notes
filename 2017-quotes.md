@@ -7,3 +7,8 @@ Quotes
 - "Everything should be made as simple as possible, but not simpler." -- Einstein
 - "We become, neurologically, what we think." -- Nicholas Carr
 - "If you want to be a clever person, you have to learn how to ask cleverly, how to listen attentively, how to respond quietly, and how to stop talking when there is nothing more to say." — Leo Tolstoy
+- "Wherever there is a human being, there is an opportunity for a kindness." -- Seneca
+- "We are more often frightened than hurt; and we suffer more from imagination than from reality." -- Seneca
+- "He suffers more than necessary, who suffers before it is necessary." -- Seneca
+- "The whole future lies in uncertainty: live immediately." -- Seneca
+- "Those who are not aware they are walking in darkness will never seek the light" -- Bruce Lee
