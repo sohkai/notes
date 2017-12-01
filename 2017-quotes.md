@@ -12,3 +12,4 @@ Quotes
 - "He suffers more than necessary, who suffers before it is necessary." -- Seneca
 - "The whole future lies in uncertainty: live immediately." -- Seneca
 - "Those who are not aware they are walking in darkness will never seek the light" -- Bruce Lee
+- "If you want to feel good, brainstorm it. If you want to appear good, test it. If you want to know if you’re any good, ship it." -- Jason Fried
