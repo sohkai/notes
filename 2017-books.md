@@ -225,14 +225,24 @@ Author: Pankaj Mishra
 Author: Wang Hui
 Translator: Michael Gibbs Hill
 
+*See notes in book*
+
 ### A Guide to the Good Life (Stoicism)
 
 Author: William B. Irvine
+
+*See notes in book*
 
 ### Sapiens: A Brief History of Mankind
 
 Author: Yuval Noah Harari
 
+*See notes in book*
+
 ### Masters of Doom
 
 Author: David Kushner
+
+- **Build an empire, or just build good code?**
+
+*See notes in book*

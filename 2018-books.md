@@ -94,3 +94,58 @@ Author: Stephen J. Dubner, Steven Levitt
     - Mitigate serious abuse of the language by corporates
 - "Open source is [great, but it's] not magic pixie dust" -- JAmie Zawinski
 - **"Computers are tools for human beings. Ultimately, therefore, the challenges of designing hardware and software must come back to designing for human beings"**
+
+### Skin in the Game
+
+Author: Nassim Nicholas Taleb
+
+- Find the asymmetries, where someone's risk doesn't match their gain
+
+*See notes in book*
+
+### Lords of Finance
+
+Author: Liaquat ahamed
+
+- Even the best can go bankrupt
+- Gold standard ties world economic growth to how much of a mineral we can mine
+- Stubbornish towards dogma --> catastrophe
+
+*See notes in book*
+
+### The Definitive Book of Body Languange
+
+Author: Allan & Barbara Pease
+
+- Keep practicing!
+
+### The Decision Book
+
+Authors: Mikael Krogerus, Roman Tschappeler
+
+- Handbook for making decisions and mental models
+
+### Faraday, Maxwell, and the Electromagnetic Field
+
+Authors: Nancy Forbes, Basil Mahon
+
+- Laws to live by:
+  - "One should be not too hasty to erect general theories from a few particular observations"
+  - "Take imagination to its limits but draw no conlusions without solid experimental proof"
+  - "Explore; observe; experiment; eliminate sources of error"
+  - "Don't become a prisoner of your own ideas"
+  - "Nothing can be proved, except in mathematics, and much of what we take to be fact is merely conjecture (or opinion)"
+  - Don't heed to everyone's wishes to be a slave to their lives; **live your own life**
+  - Learn the **principles** on which laws and formulas stand
+- **Work, Finish, Publish** -- Michael Faraday
+- Inventions (e.g. electricial appliances) often need infrastructure to be laid before they're feasible for mass consumption
+  - See "Techhnological Revolutions and Financial Capital" (Carlota Perez) on phases (irruption and frenzy lay infrastructure)
+  - Often also need "scaffolding" to build them up pto a point where they can stand by themselves (and the scaffolds are realized as false or unnecessary)
+- Faraday: the experienting dreamer
+- Maxwell: a combination of "boldness, imagination, ingenuity, and sheer ppersistence"
+  - Built a "bridge" from physical Newtonian physics to abstract (but present) electromagnetic fields
+- **Visionaries change our concept of reality and what we perceive to be real**
+  - Paradigm shift
+- Determination: what is your _duty_?
+- Science: the ideal of the human intellect trying to understand nature; seekers of truth
+  - No theory can stand unless it's tested by experiments (adverse environments)
