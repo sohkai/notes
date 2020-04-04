@@ -334,7 +334,7 @@ Life
         - Specific: operate with details, **use words like "exactly", "precisely"**
         - General: focus on overview, **use language like "essentially", "generally"**
     - *See, Heard, Read, Do*: Vector of convincing and persuasion
-        - See: influenced by what they perceieve **(55%)**
+        - See: influenced by what they perceive **(55%)**
         - Hear: influenced by what they hear **(30%)**
         - Do: influenced by past and current action **(12%)**
         - Read: influenced by what they read **(3%)**
