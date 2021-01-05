@@ -246,3 +246,165 @@ Author: David Kushner
 - **Build an empire, or just build good code?**
 
 *See notes in book*
+
+### How to Read a Book
+
+Author: Mortimer J. Adler, Charles Van Doren
+
+1. The Activity and Art of Reading
+    - Knowledge is a prerequisite to understanding, but we do not need to know *everything* to understand something
+    - Modern media (e.g. TV) are designed to make thinking seem unnecessary (**not true!**)
+        - Zombie play-back state of opinions in people vs. critical thinking
+    - The more active the reading, the better (i.e. more thinking and analysis; see later)
+        - Receiving communication is not entirely passive; writers and readers work together to send and receive information
+    - Note the difference between reading for *information* vs reading for *understanding*
+        - *What* vs. *why*, *how*, meaning, and relations to other information
+    - If you understand everything in the book perfectly from the start, you might have only gained *information*
+    - Going to work on a book: work from a state of less understanding to one of greater understanding using only your own mind
+    - Understanding: new perspectives or intelligence that casts new light on all information related
+    - *Widely read* vs *well read*
+    - Learning via *instruction* (aided discovery) vs *discovery*; reading is former but exercises same skills as latter
+        - Learning via an absent teacher
+1. The Levels of Reading
+    - Levels:
+        1. Elementary: illiterate to literate
+        1. Inspectional: reading with time bound; get the most out from a time bound; examine the surface of a text
+        1. Analytical: best, most thorough reading you can complete given unlimited time
+        1. Syntopical: understanding common themes and topics from multiple sources
+    - If you don't inspect a book, you have to build both a superficial knowledge of the book as well as an understanding *at the same time*
+1. Elementary Reading
+    - First have to master elementary reading before being able to read on higher levels
+1. Inspectional Reading
+    - Systematic skimming
+        - Discover whether the book should be read, and at which level
+        - Look at:
+            - Title page and preface
+            - Table of contents
+            - Index
+            - Publisher's blurb
+            - Chapters that seem pivotal to main points, and their opening and closing summaries (if any)
+            - Dip in and out for a few paragraphs and pages, and epilogue (if one)
+    - Superficial reading
+        - In reading a difficult book, do a superficial reading first; go through without stopping to look up or ponder on ideas you don't understand
+        - You'll grasp it much better on a second reading
+        - Getting distracted by too many things detracts from the *whole* picture and understanding
+            - *Don't miss the forest for the trees!*
+    - If you speed read, you should also know *what* to speed read and what to spend time on
+        - Not all books are equal; nor should they be read equally
+        - Not all parts in a book are equal as well
+        - Know which parts should be read slowly for proper comprehension
+    - Know what to look for (and what you're looking for), and when you've found it
+    - Speed reading is reading at the speed of your mind, rather than your eyes (mental vs physical)
+    - "Every book should be read no more slowly than it deserves, and no more quickly than you can read it with satisfaction and comprehension"
+1. Inspectional Reading 2
+    - Be a demanding reader, keep your mind on the goal: understanding and growing from reading
+    - Ask questions while you read, and try to answer them as you read (make it a habit!)
+        - Creating understanding from a book means asking yourself questions as you read
+        - Ask no questions = get no answers
+    - **Questions for active reading**:
+        1. What is the book about, as a whole?
+        1. What is being said in detail, and how?
+        1. Is the book true, whole or part? (Needs first two; make your own decision, not just the author's)
+        1. What of it (new understanding)? Why is it important, what follows, is suggested, etc?
+    - Need both the will and the skill to demand more from reading, otherwise it'll just be frustrating
+    - "Elevate yourself by mastering what at first sight seems to be beyond you"
+    - Write answers in the book as you read
+    - Thinking tends to express itself in words
+    - "Reading a book should be a conversation between you and the author"
+    - Try to summarize and outline the author's points
+    - First, take notes of the *structure* of a book:
+        - What type is it, what of it, and how is it structured?
+    - Then, take *conceptual* notes:
+        - What are the truths? What of them?
+    - When reading syntopically, you can takes *dialectal* notes (see Part 4): a communal discussion taken by all the authors
+    - Art and skill are formed by operating in accordance to rules
+1. Pigeonholing a Book
+    - **Rule 1**: You must know what type of book you're reading, and should know this as early as possible
+        - Sometimes this can be hard to tell apart (e.g. fiction from nonfiction)
+    - You can (and should try to!) infer a lot from just a book's title
+    - Know not only the grouping, but what the grouping means (and how it differs against other groupings)
+    - Practical vs. theoretical
+        - Practical: what works, and how
+        - Theoretical: something to be seen and understood
+        - Knowledge vs application (that vs how)
+        - Fact (truth) vs judging, giving opinions, and persuading
+    - Theoretical:
+        - History: specific events in a single time and space
+        - Science: laws of generalizations
+        - Philosophy: similar to science, but falling into daily, routine experiences (armchair thinking)
+    - Different types of books (and authors) will frame arguments and facts differently
+        - We should read them differently as well
+1. X-raying a Book
+    - "Every book has a skeleton hidden between its covers." -- your job is to find it
+    - **Rule 2**: State the unity (theme) of a whole book in a single sentence, or at most a paragraph
+        - What is the author up to; what is he trying to do?
+        - "Feeling" it is not good enough; state it!
+        - Only you can formulate the unity of a book for yourself; take the author's hints and help, but do not rely on them
+    - **Rule 3**: Set forth the major parts of the book, and show how these are organized into a whole, by being ordered to one another and to the unity of the whole
+        - The author is architecting the structure of the book, and unifying many independent ideas into a whole
+        - "Unless you grasp the organization of its parts, you cannot know the whole comprehensively"
+        - Make your own outline based on your own understandings and groupings; you do not have to follow what the author has given you (e.g. chapters)
+    - **Rule 4**: Find out what the author's problems were
+        - What did the author question himself (which are primary and secondary? which are priorities?) when he began the book? What did he want to answer?
+        - Theoretical questions:
+            - Does something exist?
+            - What kind of thing is it?
+            - What caused it to exist, or under what conditions can it exist, or why does it exist?
+			- What purpose does it serve?
+			- What are the consequences of its existence?
+			- What are its characteristic properties, its typical traits?
+			- What are its relations to other things of a similar sort, or of a different sort?
+			- How does it behave?
+        - Practical questions:
+			- What ends should be sought?
+			- What means should be chosen to a given end?
+			- What things must one do to gain a certain objective, and in what order?
+			- Under these conditions, what is the right thing to do, or the better rather than the worse?
+			- Under what conditions would it be better to do this rather than that?
+    - Understanding the organization of a book is the effort of understanding how and why you've come to the theme of a book
+    - "The best books are those that have the most intelligible structure."
+    - "To recognize [plot tropes] is to learn what it means to say that there are only a small number of plots in the world"
+        - Difference between good and bad plots, then, is how the author dresses it up
+    - "Most readers cannot read outlines" ;)
+    - **Writing guideline**: "A piece of writing should have unity, clarity, and coherence"
+1. Coming to Terms with an Author
+    - Ideal towards both writer and reader: unambiguous conversation
+    - **Rule 5**: Find the important words and through them come to terms with the author (understand the same meaning he is trying to convey)
+    - Interpret language, and look beyond it to the ideals behind words
+        - Words can have many different contextual meanings; it's important to grasp which ones the author places importance on (in which context), and why
+        - The most important words are likely those that give you trouble, that make it difficult to understand what the author is talking about otherwise
+        - The author may give you help by defining, or stressing certain words
+        - Look for each field's technical vocabulary
+        - Don't be a non-active reader!
+        - Find out if the word is meant to have one or many meanings, what the relations between the meanings is, and why the author switches them
+    - Note that words can have multiple meanings, but that multiple words may have the same meaning (synonyms)
+1. Determining an Author’s Message
+    - An author declares his judgement about something through his words; a declaration of knowledge
+        - These are just personal opinions unless they are supported (and even then, those justifications may be personal)
+    - An argument is always a set of statements stating the argument and its supporting rationale
+    - Interpreting moves upwards; it goes from words, to terms, to phrases, to prepositions, to paragraphs, etc.
+        - Outlining and interpretation meet at the level of prepositions and arguments
+    - Notice the difference between a *grammatical* unit of language (sentence, paragraph) versus a *logical* unit (preposition and argument)
+    - Break down complex sentences into their major ideas so that you can discern what's being conveyed and what to judge
+    - "So long as words, sentences, and paragraphs are opaque and unanalyzed, they are a barrier to, rather than a medium of, communication. **You will read words but not receive knowledge.**"
+    - **Rule 6**: Mark the most important sentences in a book and discover the propositions they contain
+        - Similar to words, those that require an effort of interpretation are likely to be important
+            - You are likely to have the most difficulty with the most important concepts
+        - Important words often lead to important propositions
+        - They must be premises or conclusions related to the main theme of the book
+        - **"The heart of [the author's] communication lies in the major affirmations and denials he is making, and the reasons he gives for so doing"**
+        - If you treat everything as the same, read at the same speed and care, "that usually means [to you] that everything is equally unimportant"
+            - Pause for the sentences that *puzzle* you, not the ones that *interest* you
+        - State propositions made in your own words
+            - Don't mistake *thought* or *knowledge* for *words*
+        - Find examples in your own life (or imagine them) that are related to the propositions made
+            - **Propositions relate to the actual world we live in**
+    - **Rule 7**: Locate or construct the basic arguments in the book by finding them in the connection of sentences
+        - Search through paragraphs or larger grammatical constructs to find sentences to piece together an argument
+        - **"If the book contains arguments, you must know what they are"**
+        - Discriminate between inductive and deductive logic
+        - Find the underlying assumptions for the argument
+    - **Rule 8**: Find out what the author’s solutions are
+        - Are there any he failed to solve? Does the author acknowledge them?
+    - Don't mistake the author's world for his ideas; look through the (perhaps outdated) world to what he wants to express
+1. Criticizing a Book Fairly
